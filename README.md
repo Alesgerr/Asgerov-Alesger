@@ -34,8 +34,8 @@ Hazırda **remote (uzaqdan)** frontend vakansiyaları ilə maraqlanıram.
 ### 📊 GitHub Statistikam:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alesgerasgerov&show_icons=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alesgerasgerov&layout=compact&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alesgerr&show_icons=true&theme=radical" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alesgerr&layout=compact&theme=radical" height="170" />
 </p>
 
 ---
